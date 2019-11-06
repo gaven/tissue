@@ -1,0 +1,17 @@
+{
+  "name": "tissue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html --open"
+  },
+  "dependencies": {
+    "preact": "^10.0.4",
+    "preact-compat": "^3.19.0",
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
